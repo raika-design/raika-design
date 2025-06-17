@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Raika
+- 🔭 I’m currently working on ... raika.design – a personal website inspired by Japanese aesthetics & soft power
 
 <!--
 **raika-design/raika-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
